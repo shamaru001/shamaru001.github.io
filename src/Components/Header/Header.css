@@ -1,0 +1,47 @@
+#header {
+    display: flex;
+    width: 100vw;
+    height: 10vh;
+    background-color: #05010e;
+    color: white;
+    font-family: 'Staatliches', cursive;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+}
+
+#menu {
+    width: 40vw;
+}
+
+#title {
+    width: 50vw;
+}
+
+#title {
+    margin-left: 5vw;
+}
+
+#menu {
+    font-family: 'Righteous', cursive;
+}
+
+.menu_item {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+}
+
+.menu_item a {
+    color: white;
+}
+
+@media (min-width: 1280px) {
+    #title {
+        font-size: 200%;
+    }
+
+    #menu {
+        font-size: 130%;
+    }
+}

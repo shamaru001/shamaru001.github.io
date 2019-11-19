@@ -1,0 +1,19 @@
+#home {
+    display: flex;
+    height: 90vh;
+    width: 100vw;
+    background: #042738 url("../../images/background_home.jpg") no-repeat;
+    background-origin: border-box;
+    background-size: 100% 100%;
+}
+
+#about {
+    padding-top: 5vw;
+    padding-left: 5vw;
+}
+
+#social_media {
+    position: absolute;
+    left: 10vw;
+    bottom: 10vh;
+}
