@@ -9,7 +9,7 @@ const AboutMe: React.FC = () => {
                 <br />
                 I love programmer & always I'm searching something new to learn.
                 <br />
-                why being up to date is the challenge of each person in IT industry
+                why being up to date is the challenge of each person in IT industry.
             </p>
         </section>
     );
